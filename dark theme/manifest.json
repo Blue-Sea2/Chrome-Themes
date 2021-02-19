@@ -4,9 +4,9 @@
   "manifest_version": 2,
   "theme": {
     "images" : {
-      "theme_frame" : "pattern_cat.png",
-      "theme_toolbar" : "pattern_hearts.png",
-      "theme_ntp_background" : "pattern_leaf.png",
+      "theme_frame" : "bubbles.jpg",
+      "theme_toolbar" : "pattern_green.jpg",
+      "theme_ntp_background" : "smoke.png",
     },
     "colors" : {
       "frame" : [71, 105, 91],
