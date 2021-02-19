@@ -5,10 +5,8 @@
   "theme": {
     "images" : {
       "theme_frame" : "pattern_cat.png",
-      "theme_frame_overlay" : "pattern_deer.png",
       "theme_toolbar" : "pattern_hearts.png",
       "theme_ntp_background" : "pattern_leaf.png",
-      "theme_ntp_attribution" : "pattern_sun.png"
     },
     "colors" : {
       "frame" : [71, 105, 91],
