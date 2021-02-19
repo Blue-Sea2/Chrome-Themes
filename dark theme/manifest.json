@@ -6,7 +6,7 @@
     "images" : {
       "theme_frame" : "bubbles.jpg",
       "theme_toolbar" : "pattern_green.jpg",
-      "theme_ntp_background" : "smoke.png",
+      "theme_ntp_background" : "smoke.png"
     },
     "colors" : {
       "frame" : [71, 105, 91],
