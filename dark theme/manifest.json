@@ -1,6 +1,7 @@
 {
   "version": "1.0",
   "name": "Dark Theme",
+  "manifest_version": 2,
   "theme": {
     "images" : {
       "theme_frame" : "pattern_cat.png",
